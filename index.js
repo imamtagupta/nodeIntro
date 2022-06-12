@@ -62,6 +62,7 @@ async function hello(){
 // module is nothing but a js file which exports its code 
 // node suppors multiple common js modules => require()
 // but recently it added support to ES module => import/export
+// lets start with very our very module.
 
 const myModule = require('./my-module')
 console.log(myModule);

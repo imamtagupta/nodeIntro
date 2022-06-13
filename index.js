@@ -4,6 +4,9 @@ global.mynum++;
 console.log(global.mynum);
 // The most important global you should be familiar with is process
 console.log(process.platform)
+
+// Make sure use any lib to read environment variables 
+require('dotenv').config();
 console.log(process.env.USER)
 
 // In most of the cases you listen to events

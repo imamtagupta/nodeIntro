@@ -8,11 +8,9 @@ Some of my node project while learning the node.js
 
 - [@MamtaGupta](https://www.github.com/mgupta96)
 
-
 ## Appendix
 
 Make sure you see package.json if you get into error.
-
 
 
 ## Feedback
